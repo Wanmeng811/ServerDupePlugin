@@ -1,0 +1,9 @@
+name: ShulkerDupe
+version: '${project.version}'
+main: dev.YuWh1teWan.shulkerdupe.Main
+authors: [ YuWh1teWan, jiyun233 ]
+description: jiyun233 的 ShulkerDupe 插件重制版
+
+commands:
+  sd:
+    description: ShulkerDupe 重制版主命令

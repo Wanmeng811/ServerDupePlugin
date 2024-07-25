@@ -1,0 +1,7 @@
+ShulkerDupe: true # 设置是否开启dupe功能喵
+
+ShulkerCounts: 32 # 设置x+1, 默认32+1喵
+
+Debug: false # 设置玩家dupe时是否在服务器console显示喵
+
+playerMessage: true # 设置dupe时是否通知玩家喵
